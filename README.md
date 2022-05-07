@@ -1,3 +1,2 @@
 # TableauPro
-Tableau Project
-Customer Sales Analysis
+Tableau Project-Customer Sales Analysis
